@@ -7,4 +7,6 @@ int main(){
     gameScore = 100;
     int gameOverCount = 12;
     const int gameUid = 123456789;
+
+    cout << "Basic variable declaration" << endl;
 }
