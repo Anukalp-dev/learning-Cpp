@@ -13,5 +13,5 @@ int main(){
 
     cout << isProjectsReady << endl;
 
-    return 5;
+    return 0;
 }
